@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Songze Lee Blog
 
 You can use the [editor on GitHub](https://github.com/lisongze2016/lisongze2016.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

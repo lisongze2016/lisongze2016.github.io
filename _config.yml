@@ -83,6 +83,9 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
+        title: "Linux Device Drivers Study Note",
+        href: "http://kernel.lisongze.cn"
+    },{
         title: "Songze Lee Blog",
         href: "http://www.lisongze.cn"
     },{

@@ -1,7 +1,11 @@
 
 
 
-#### [View Live Songze Lee Blog &rarr;](http://www.lisongze.cn)
+#### [View Live Songze Lee Blog(www.lisongze.com)&rarr;](http://www.lisongze.com)
+
+or
+
+#### [View Live Songze Lee Blog(www.lisongze.cn)&rarr;](http://www.lisongze.cn)
 
 
 
